@@ -3,7 +3,7 @@
   <h2>Here are some projects I have worked on:<h2>
 
 <h2>📃Certifications:<h2>
-- [Google Cybersecurity Professional Certificate](https://coursera.org/share/81d412b244d151519b6c93ce9f2aba51)
+- Google Cybersecurity Professional Certificate(https://coursera.org/share/81d412b244d151519b6c93ce9f2aba51)
   
 <h2>- 📫 How to reach me ...<h2>
 
