@@ -4,7 +4,7 @@
 <h2>📃Certifications:</h2>
 - Google Cybersecurity Professional Certificate(https://coursera.org/share/81d412b244d151519b6c93ce9f2aba51)
   
-<h2>- 📫 How to reach me ...<h2>
+
 
 <!---
 Ntopo1/Ntopo1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
