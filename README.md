@@ -1,6 +1,8 @@
 <h1> 👋 Hi, I’m Nick and I'm working toward becoming a cybersecurity professional!</h1>
 <h2>Here are some projects I have worked on:</h2>
-- Create a Simple Network(https://github.com/Ntopo1/Build-a-home-netwrok-with-Cisco-packet-tracer/blob/main/README.md)
+
+-[Create a Simple Network](https://github.com/Ntopo1/Build-a-home-netwrok-with-Cisco-packet-tracer/blob/main/README.md)
+</br>
 <h2>📃Certifications:</h2>
 Comptia Security+
 
