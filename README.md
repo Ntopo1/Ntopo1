@@ -2,7 +2,10 @@
 <h2>Here are some projects I have worked on:</h2>
 - Create a Simple Network(https://github.com/Ntopo1/Build-a-home-netwrok-with-Cisco-packet-tracer/blob/main/README.md)
 <h2>📃Certifications:</h2>
-- Google Cybersecurity Professional Certificate(https://coursera.org/share/81d412b244d151519b6c93ce9f2aba51)
+Comptia Security+
+
+-[Google Cybersecurity Professional Certificate](https://coursera.org/share/81d412b244d151519b6c93ce9f2aba51)
+
   
 
 
