@@ -5,7 +5,7 @@
 <br />
 -[Wireshark Packet Capture](https://github.com/Ntopo1/Wireshark)
 <br />
--[Hack the Box- Into Active Directory](https://github.com/Ntopo1/Active-Directory-HTB/tree/main)
+-[Hack the Box- Intro Active Directory](https://github.com/Ntopo1/Active-Directory-HTB/tree/main)
 <br />
 <br />
 <h2>📃Certifications:</h2>
