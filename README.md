@@ -11,6 +11,9 @@
 <br />
 <br />
 <h2>📃Certifications:</h2>
+
+- [Blue Team Level 1](https://elearning.securityblue.team/home/certificate/294595389)
+<br />
 -Comptia Security+
 <br />
 
