@@ -10,7 +10,7 @@
 <h2>📃Certifications:</h2>
 
 - [Blue Team Level 1](https://elearning.securityblue.team/home/certificate/294595389)<br />
-- CompTIA Security+<br />
+- [CompTIA Security+](https://drive.google.com/file/d/1OfHCGPZm4c3YCGu41vC4gZqJx7wzdusX/view?usp=sharing)<br />
 - [Google Cybersecurity Professional](https://coursera.org/share/81d412b244d151519b6c93ce9f2aba51)
 
   
