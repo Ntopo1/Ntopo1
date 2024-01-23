@@ -5,6 +5,7 @@
 - [Wireshark Packet Capture](https://github.com/Ntopo1/Wireshark)<br />
 - [Hack the Box- Intro Active Directory](https://github.com/Ntopo1/Active-Directory-HTB/tree/main)<br />
 - [Blue Team Level 1 - Phishing-Capstone](https://github.com/Ntopo1/BTL1-Phishing-Capstone/blob/main/README.md)
+- [Azure: Create a Virtual Machine and Deploy a Web Server](https://github.com/Ntopo1/Azure-Create-a-Virtual-Machine-and-deploy-a-Web-server/blob/main/README.md)
 <br />
 <br />
 <h2>📃Certifications:</h2>
