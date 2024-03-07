@@ -8,7 +8,7 @@
 - [Azure: Create a Virtual Machine and Deploy a Web Server](https://github.com/Ntopo1/Azure-Create-a-Virtual-Machine-and-deploy-a-Web-server/blob/main/README.md)<br />
 - [SOC Automation Project](https://github.com/Ntopo1/SOC-Automation/blob/main/README.md)<br />
 - [Python: 100 Days of Coding Challenge](https://github.com/Ntopo1/Python/blob/main/README.md)<br />
-- [Get Familiar with](https://github.com/Ntopo1/Get-Familiar-with-DNS-and-DHCP-/blob/main/README.md)<br />
+- [Get Familiar with DNS and DHCP](https://github.com/Ntopo1/Get-Familiar-with-DNS-and-DHCP-/blob/main/README.md)<br />
 <br />
 <br />
 <h2>📃Certifications:</h2>
