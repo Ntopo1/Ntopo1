@@ -8,7 +8,7 @@
 - [Azure: Create a Virtual Machine and Deploy a Web Server](https://github.com/Ntopo1/Azure-Create-a-Virtual-Machine-and-deploy-a-Web-server/blob/main/README.md)<br />
 - [SOC Automation Project](https://github.com/Ntopo1/SOC-Automation/blob/main/README.md)<br />
 - [Get Familiar with DNS and DHCP](https://github.com/Ntopo1/Get-Familiar-with-DNS-and-DHCP-/blob/main/README.md)<br />
-- [Manage websites with Apache2](https://github.com/Ntopo1/Manage-Websites-With-Apache2/blob/main/README.md)<br />
+- [Manage Websites with Apache2](https://github.com/Ntopo1/Manage-Websites-With-Apache2/blob/main/README.md)<br />
 - [Encrypting, Decrypting and Sign Verifying with OpenSSL](https://github.com/Ntopo1/encrypting-decrypting-and-sign-verify-using-OpenSSL/tree/main)<br />
 - [Using Logs to Help Track Down an Issue in Windows and Linux](https://github.com/Ntopo1/Using-Logs-to-Help-You-Track-Down-Issues-in-Windows-and-Linux/blob/main/README.md)<br />
 <br />
