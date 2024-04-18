@@ -1,7 +1,7 @@
 <h1> 👋 Hi, I’m Nick and I'm working toward becoming a cybersecurity professional!</h1>
 <h2>Here are some projects I have worked on:</h2>
 
-- [Create a Simple Network](https://github.com/Ntopo1/Build-a-home-network-with-Cisco-packet-tracer/blob/main/README.md)<br />
+- [Create a Simple Network](https://github.com/Ntopo1/Build-a-home-network-with-Cisco-packet-tracer/tree/main)<br />
 - [Wireshark Packet Capture](https://github.com/Ntopo1/Wireshark)<br />
 - [Hack the Box- Intro Active Directory](https://github.com/Ntopo1/Active-Directory-HTB/tree/main)<br />
 - [Blue Team Level 1 - Phishing-Capstone](https://github.com/Ntopo1/BTL1-Phishing-Capstone/blob/main/README.md)<br />
