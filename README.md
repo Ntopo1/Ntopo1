@@ -16,6 +16,7 @@
 <h2>📃Certifications:</h2>
 
 - [Blue Team Level 1](https://www.credly.com/badges/583ef24b-f11a-4a3b-b3ba-ad55af69bfd2/public_url)<br />
+- [CCNA](https://www.credly.com/badges/a9cafc9c-ec51-42ad-bf4a-70980af67803/public_url)<br />
 - [CompTIA Security+](https://drive.google.com/file/d/1OfHCGPZm4c3YCGu41vC4gZqJx7wzdusX/view?usp=sharing)<br />
 - [Google Cybersecurity](https://coursera.org/share/81d412b244d151519b6c93ce9f2aba51)<br />
 - [Google IT Support](https://coursera.org/share/79f7db03dabacd4f430420c993e197d8)<br />
