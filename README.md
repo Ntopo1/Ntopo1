@@ -1,7 +1,7 @@
 <h1> 👋 Hi, I’m Nick and I'm working toward becoming a cybersecurity professional!</h1>
 <h2>Here are some projects I have worked on:</h2>
 
-- [Create a Small Office/ Home Office Network](https://github.com/Ntopo1/Build-a-home-network-with-Cisco-packet-tracer/tree/main)<br />
+
 - [Wireshark Packet Capture](https://github.com/Ntopo1/Wireshark)<br />
 - [Hack the Box- Intro Active Directory](https://github.com/Ntopo1/Active-Directory-HTB/tree/main)<br />
 - [Blue Team Level 1 - Phishing-Capstone](https://github.com/Ntopo1/BTL1-Phishing-Capstone/blob/main/README.md)<br />
@@ -11,6 +11,7 @@
 - [Manage Websites with Apache2](https://github.com/Ntopo1/Manage-Websites-With-Apache2/blob/main/README.md)<br />
 - [Encrypting, Decrypting and Sign Verifying with OpenSSL](https://github.com/Ntopo1/encrypting-decrypting-and-sign-verify-using-OpenSSL/tree/main)<br />
 - [Using Logs to Help Track Down an Issue in Windows and Linux](https://github.com/Ntopo1/Using-Logs-to-Help-You-Track-Down-Issues-in-Windows-and-Linux/blob/main/README.md)<br />
+- [Create a Small Office/ Home Office Network](https://github.com/Ntopo1/Build-a-home-network-with-Cisco-packet-tracer/tree/main)<br />
 - [Two Office Network-Configuration-CCNA-Recap](https://github.com/Ntopo1/Network-Configuration---CCNA-Recap)
 <br />
 <br />
