@@ -1,4 +1,4 @@
-<h1> 👋 Hi, I’m Nick and I'm working toward becoming a cybersecurity professional!</h1>
+<h1> 👋 Hi, I’m Nick and I'm working toward becoming an IT professional!</h1>
 <h2>Here are some projects I have worked on:</h2>
 
 
