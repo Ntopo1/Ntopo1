@@ -10,7 +10,7 @@
 - [Get Familiar with DNS and DHCP](https://github.com/Ntopo1/Get-Familiar-with-DNS-and-DHCP-/blob/main/README.md)<br />
 - [Manage Websites with Apache2](https://github.com/Ntopo1/Manage-Websites-With-Apache2/blob/main/README.md)<br />
 - [Encrypting, Decrypting and Sign Verifying with OpenSSL](https://github.com/Ntopo1/encrypting-decrypting-and-sign-verify-using-OpenSSL/tree/main)<br />
-- [Using Logs to Help Track Down an Issue in Windows and Linux](https://github.com/Ntopo1/Using-Logs-to-Help-You-Track-Down-Issues-in-Windows-and-Linux/blob/main/README.md)<br />
+- [Using Logs to Help Track Down Issues in Windows and Linux](https://github.com/Ntopo1/Using-Logs-to-Help-You-Track-Down-Issues-in-Windows-and-Linux/blob/main/README.md)<br />
 - [Create a Small Office/ Home Office Network](https://github.com/Ntopo1/Build-a-home-network-with-Cisco-packet-tracer/tree/main)<br />
 - [Two Office Network-Configuration-CCNA-Recap](https://github.com/Ntopo1/Network-Configuration---CCNA-Recap)
 <br />
