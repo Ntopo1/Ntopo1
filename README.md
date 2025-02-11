@@ -12,10 +12,12 @@
 - [Encrypting, Decrypting and Sign Verifying with OpenSSL](https://github.com/Ntopo1/encrypting-decrypting-and-sign-verify-using-OpenSSL/tree/main)<br />
 - [Using Logs to Help Track Down Issues in Windows and Linux](https://github.com/Ntopo1/Using-Logs-to-Help-You-Track-Down-Issues-in-Windows-and-Linux/blob/main/README.md)<br />
 - [Create a Small Office/ Home Office Network](https://github.com/Ntopo1/Build-a-home-network-with-Cisco-packet-tracer/tree/main)<br />
-- [Two Office Network-Configuration-CCNA-Recap](https://github.com/Ntopo1/Network-Configuration---CCNA-Recap)
+- [Two Office Network-Configuration-CCNA-Recap](https://github.com/Ntopo1/Network-Configuration---CCNA-Recap)<br />
 <br />
+
 <h3>Python Projects:</h3>
-- [BookBot](https://github.com/Ntopo1/bookbot)
+
+- [BookBot](https://github.com/Ntopo1/bookbot/blob/main/README.md)<br />
 
 <br />
 <br />
