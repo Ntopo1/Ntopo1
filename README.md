@@ -14,6 +14,10 @@
 - [Create a Small Office/ Home Office Network](https://github.com/Ntopo1/Build-a-home-network-with-Cisco-packet-tracer/tree/main)<br />
 - [Two Office Network-Configuration-CCNA-Recap](https://github.com/Ntopo1/Network-Configuration---CCNA-Recap)
 <br />
+<h3>Python Projects:</h3>
+- [BookBot](https://github.com/Ntopo1/bookbot)
+
+<br />
 <br />
 <h2>📃Certifications:</h2>
 
