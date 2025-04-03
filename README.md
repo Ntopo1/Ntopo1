@@ -17,7 +17,7 @@
 
 <h3>Python Projects:</h3>
 
-- [BookBot](https://github.com/Ntopo1/bookbot/blob/main/README.md)<br />
+- [BookBot](https://github.com/Ntopo1/bookbot)<br />
 - [Asteroids in Py](https://github.com/Ntopo1/Asteroids_in_py)<br />
 
 <br />
